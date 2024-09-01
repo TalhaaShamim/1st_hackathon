@@ -1,0 +1,74 @@
+.t-nav-menu {
+    margin: 0px 800px;
+}
+
+.t-hero-sec {
+    margin: 50px 0px;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.textcontainer p {
+    margin: 30px 0px;
+}
+
+.imgcontainer img {
+    width: 100%;
+}
+
+.t-sec-3 img {
+    width: 80%;
+}
+
+.sec-4 {
+    margin: 100px 0px;
+}
+
+.servicecontainer h5 {
+    width: 100px;
+    height: 50px;
+    color: black;
+    background-color: #B9FF66;
+}
+
+.servicecontainer {
+    margin: 50px 0px;
+}
+
+.card-icon {
+    margin-top: 100px;
+}
+
+.parent {
+    border: 1px solid gray;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.child h5 {
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    background-color: #B9FF66;
+}
+
+.parent-2 {
+    background-color: #B9FF66;
+}
+
+.child-2 h5 {
+    background-color: white;
+}
+
+.working h5 {
+    width: 200px;
+}
+
+.t-row-5 {
+    background-color: #B9FF66;
+    border: 1px solid gray;
+    border-radius: 20px;
+    padding: 20px;
+}
